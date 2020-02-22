@@ -1,6 +1,5 @@
 ---
 layout: home
-title:
 ---
 
 # 延期のご案内
