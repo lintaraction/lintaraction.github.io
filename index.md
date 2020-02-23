@@ -57,12 +57,12 @@ layout: home
 ## 会場地図
 
 <div class="google-maps" style="text-align:center;">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6492.0590623223825!2d139.65010964544706!3d35.55297285396277!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4bd7514a1c382514!2z44OV44Kh44Kr44Or44OG44Kj44Op44Km44Oz44K4!5e0!3m2!1sja!2sjp!4v1545745293120" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6492.0590623223825!2d139.65010964544706!3d35.55297285396277!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4bd7514a1c382514!2z44OV44Kh44Kr44Or44OG44Kj44Op44Km44Oz44K4!5e0!3m2!1sja!2sjp!4v1545745293120" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 ## 幹事
 
-- 卒業生：　金井（運営）、大澤、杉山、植田（連絡・登録）、尾形（ウェブ）
+- 卒業生：　大澤（実行委員長）、杉山、金井（運営）、植田（連絡・登録）、尾形（ウェブ）
 - 現役生：　秋田（運営）
 
 
