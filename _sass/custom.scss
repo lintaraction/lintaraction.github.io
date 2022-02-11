@@ -40,6 +40,11 @@ h1, h2 {
 	text-decoration:none;
 }
 
+.rgst-button-muted {
+  	background:linear-gradient(to bottom, #656260 5%, #555355 100%);
+  	border:1px solid #333333;
+}
+
 .rgst-button:hover {
 	background:linear-gradient(to bottom, #bc3315 5%, #d0451b 100%);
 	background-color:#bc3315;
