@@ -14,11 +14,10 @@ layout: home
 不参加の場合でも、連絡先をご登録いただければ次回以降のイベントをご案内します。<br>
 <br>
 <br>
-なお、3/25(土) 当日Lintaraction前の13:30-15:30には、日吉来往舎で「ImAI Symposium：知能メディアとインタラクション研究会」も開催されます。<br>
+なお、3/25(土) 当日Lintaraction前の13:30-15:30には、<br>
+日吉来往舎で<a href="https://sites.google.com/view/imais/%E3%83%9B%E3%83%BC%E3%83%A0">「ImAI Symposium：知能メディアとインタラクション研究会」</a>も開催されます。<br>
 今井先生や今井研学生の方も参加されますので、興味ある方はどうぞ。<br>
 また、自身の研究発表を研究会に申し込んでいただいても大丈夫です。<br>
-<br>
-[研究会URL](https://sites.google.com/view/imais/%E3%83%9B%E3%83%BC%E3%83%A0)
 </center>
 
 # 開催概要
