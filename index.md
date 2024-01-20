@@ -15,7 +15,7 @@ layout: home
 <br>
 <br>
 なお、3/2(土) 当日Lintaraction前の11:00-12:30には、<br>
-矢上キャンパス新棟で<a href="https://sites.google.com/view/imais/%E3%83%9B%E3%83%BC%E3%83%A0">「ImAI Symposium：知能メディアとインタラクション研究会 2024」</a>も開催されます。<br>
+矢上キャンパス16A棟(厚生棟)3階大会議室で<a href="https://sites.google.com/view/imais/%E3%83%9B%E3%83%BC%E3%83%A0">「ImAI Symposium：知能メディアとインタラクション研究会 2024」</a>も開催されます。<br>
 今井先生や今井研学生の方も参加されますので、興味ある方はどうぞ。<br>
 また、自身の研究発表を研究会に申し込んでいただいても大丈夫です。<br>
 </center>
