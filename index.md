@@ -15,7 +15,8 @@ layout: home
 <br>
 <br>
 なお、3/16(日) 当日Lintaraction前の13:00-16:00には、<br>
-日吉協生館2階AICラウンジ（HUBの上）にて<a href="https://sites.google.com/view/imais/%E3%83%9B%E3%83%BC%E3%83%A0">「ImAI Symposium：知能メディアとインタラクション研究会 2025」</a>も開催されます。<br>
+日吉協生館2階AICラウンジ（HUBの上）にて<br>
+<a href="https://sites.google.com/view/imais/%E3%83%9B%E3%83%BC%E3%83%A0">「ImAI Symposium：知能メディアとインタラクション研究会 2025」</a>も開催されます。<br>
 今井先生や今井研学生の方も参加されますので、興味ある方はどうぞ。<br>
 また、自身の研究発表を研究会に申し込んでいただいても大丈夫です。<br>
 </center>
